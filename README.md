@@ -1,2 +1,1 @@
-# My_flying_pig_music
-This is repositore is music from game my flying pig
+Hi, in this repository I disassembled the game MyFlyingPig and extracted all the music from it.
